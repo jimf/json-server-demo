@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "drop off Connor at daycare",
+      "completed": true
+    },
+    {
+      "id": 1,
+      "title": "buy eggs",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "return library books",
+      "completed": false
+    }
+  ]
+}
