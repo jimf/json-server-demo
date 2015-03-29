@@ -14,7 +14,7 @@ var app = app || {};
 		model: app.Todo,
 
 		// Save all of the todo items under the `"todos"` namespace.
-		localStorage: new Backbone.LocalStorage('todos-backbone'),
+		// localStorage: new Backbone.LocalStorage('todos-backbone'),
 
 		// Filter down the list of all todo items that are finished.
 		completed: function () {
