@@ -1,9 +1,10 @@
 # json-server Demo
 
-Demo code for my talk on quickly faking RESTful APIs for the purposes of rapid
-prototyping and development by making use of `json-server` and `faker`. Here we
-are writing simple mock data for TodoMVC, and then updating an example
-implementation (Backbone specifically, but any should work) to make use of it.
+Demo code for my [talk on quickly faking RESTful APIs](https://speakerdeck.com/jimf/faking-rest-apis-in-under-30-seconds)
+for the purposes of rapid prototyping and development by making use of
+`json-server` and `faker`. Here we are writing simple mock data for TodoMVC,
+and then updating an example implementation (Backbone specifically, but any
+should work) to make use of it.
 
 ## Getting Started
 
